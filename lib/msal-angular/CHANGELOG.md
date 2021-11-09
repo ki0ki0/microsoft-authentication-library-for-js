@@ -1,8 +1,17 @@
 # Change Log - @azure/msal-angular
 
-This log was last generated on Mon, 01 Nov 2021 23:53:22 GMT and should not be manually modified.
+This log was last generated on Tue, 09 Nov 2021 21:51:09 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 2.0.6
+
+Tue, 09 Nov 2021 21:51:09 GMT
+
+### Patches
+
+- Fix angular guard /code check to ensure proper length #4249 (janutter@microsoft.com)
+- Bump @azure/msal-browser to v2.19.1
 
 ## 2.0.5
 

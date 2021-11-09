@@ -1,8 +1,16 @@
 # Change Log - @azure/msal-common
 
-This log was last generated on Mon, 01 Nov 2021 23:53:21 GMT and should not be manually modified.
+This log was last generated on Tue, 09 Nov 2021 21:51:09 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 5.1.1
+
+Tue, 09 Nov 2021 21:51:09 GMT
+
+### Patches
+
+- Fix circular dependencies in AuthenticationHeaderParser and AsyncMemoryStorage #4235 (hemoral@microsoft.com)
 
 ## 5.1.0
 

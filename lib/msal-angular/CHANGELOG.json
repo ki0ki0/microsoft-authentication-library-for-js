@@ -2,6 +2,27 @@
   "name": "@azure/msal-angular",
   "entries": [
     {
+      "date": "Tue, 09 Nov 2021 21:51:09 GMT",
+      "tag": "@azure/msal-angular_v2.0.6",
+      "version": "2.0.6",
+      "comments": {
+        "patch": [
+          {
+            "author": "janutter@microsoft.com",
+            "package": "@azure/msal-angular",
+            "commit": "13ac4c3dc5a50648b2e462c71d4285b2a320e225",
+            "comment": "Fix angular guard /code check to ensure proper length #4249"
+          },
+          {
+            "author": "beachball",
+            "package": "@azure/msal-angular",
+            "comment": "Bump @azure/msal-browser to v2.19.1",
+            "commit": "427c2ada4b49114d962d33497795abd280ff6143"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 01 Nov 2021 23:53:22 GMT",
       "tag": "@azure/msal-angular_v2.0.5",
       "version": "2.0.5",
